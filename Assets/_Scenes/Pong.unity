@@ -1246,8 +1246,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 12
-  upKey: 273
-  downKey: 274
+  upKey: 105
+  downKey: 107
 --- !u!1 &1146542925
 GameObject:
   m_ObjectHideFlags: 0

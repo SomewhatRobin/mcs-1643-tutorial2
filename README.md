@@ -1,24 +1,21 @@
 #### MCS 1643 README file
-# **Replace this Project Name**
+# Assignment 2: Pong
 
-#### Author: *Replace this with your name*
+#### Author: Jacob Robinson
 
-##### Modified: *2024-09-06*
+##### Modified: *2025-09-30*
 
 <br>
 
 #### Questions for tutorial assignments: (remove this section for projects)
 **Which tutorial is this? **
-
+The Pong Tutorial
 **1. Did you make any additions beyond the tutorial requirements? If so, what?**
-> &nbsp;
-><i>(let me know what to look for, any additional keys to use, etc.)</i>   
-> &nbsp;
+Cool Cave Story-ish SFX
 
 **2. Did anything give you particular trouble?
-> &nbsp;
-><i>(If something in your assignment doesn't work or you think part of the tutorial can be improved, explain here)</i>   
-> &nbsp;
+Renaming scripts on Unity Editor doesn't update the names in Visual Studio
+I had trouble getting the Game Manager script to correct til I found the mismatch
 
 #### Questions for projects: (remove this section for tutorial assignments)
 **1. What are the controls to your game? How do we play?**   
